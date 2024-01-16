@@ -37,7 +37,7 @@ Numpy: for mathematical equations
 SciPy: for mathematical equations
 
 ---
-***Folders***
+**Folders**
 
 The project files are divided between the following folders:
 
